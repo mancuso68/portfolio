@@ -19,4 +19,4 @@ Formado em Administração de Empresas pela UnB também cursou MBA em Marketing 
 
 ## Projetos:
 
-* **A Lei de Benford:** https://bit.ly/3jKRpjj
+* **A Lei de Benford:** https://bit.ly/3bMwEAf
