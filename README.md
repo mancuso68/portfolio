@@ -19,4 +19,4 @@ Formado em Administração de Empresas pela UnB também cursou MBA em Marketing 
 
 ## Projetos:
 
-* **A Lei de Benford:** https://bit.ly/3bMwEAf - Link para artigo no Medium - https://luciano-mancuso.medium.com/lei-de-benford-d5625aa70eb9
+* **A Lei de Benford:** https://bit.ly/3bMwEAf - Artigo no Medium - https://luciano-mancuso.medium.com/lei-de-benford-d5625aa70eb9
